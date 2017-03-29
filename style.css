@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-11.jpg");
+}
+body{
+    background-color: gray;
+    font-family: Verdana, sans-serif;
+  }
+#title{
+    color: white;
+    text-align: center;
+    font-size:60px;
+    text-shadow: 1px 1px black, 0 0 25px #9966ff;
+}
+table {
+    margin-left: 5px;
+    border-collapse: collapse;
+    position: relative;
+    left: 6%;
+    float: left;
+}
+
+table,tr,th,td{
+    border: 1px solid black;
+    width: 1100px;
+}
+th{
+    font-family: 'Fredoka One';
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px #9966ff, 0 0 5px #aa42f4;
+}
+.mix{
+    font-size: 0.4em;
+    position: relative;
+    top: -5px;
+}
+.picleft{
+
+    float:left;
+    left: 4em;
+
+  }
+#PLanets{
+    background-color: #AA76DF;
+    }
+footer {
+    position: relative;
+    height: 1.25em;
+    background-color: #ccc;
+    clear: both;
+    font-size: 1em;
+    text-align: center;
+
+}
